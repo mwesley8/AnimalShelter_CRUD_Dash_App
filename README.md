@@ -64,9 +64,10 @@ Disaster or Individual Tracking
 
 ![image](https://github.com/mwesley8/AnimalShelter_CRUD_Dash_App/assets/105822088/2a1b97fc-e1f2-4c87-a573-d0eecb8a90e9)
 
-Reset (returns all widgets to their original, unfiltered state)
+Water Rescue
 
-![image](https://github.com/mwesley8/AnimalShelter_CRUD_Dash_App/assets/105822088/7d8a6a5a-9c55-47fe-98df-02c2d48e06fa)
+![image](https://github.com/mwesley8/AnimalShelter_CRUD_Dash_App/assets/105822088/745c06bd-0da0-48dd-95a7-b7af3d87d742)
+
 
 I would like to give a special thanks to my instructor. He guided me in the direction that I needed to go without just giving me the answer.
 He is referred to in the code as Archimedes.
