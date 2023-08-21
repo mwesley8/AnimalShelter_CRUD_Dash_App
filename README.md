@@ -92,7 +92,7 @@ Water Rescue
 ![image](https://github.com/mwesley8/AnimalShelter_CRUD_Dash_App/assets/105822088/67951155-c0e9-4de6-a4ad-dfb1ecf7917a)
 
 Special thanks to my instuctor. We collaborated together to produce the best possible dashboard relative to my level of understanding.
-The biggest lessong I learned was that it is okay to ask for help.
+The biggest lesson I learned was that it is okay to ask for help.
 
 Maurice Wesley
 
