@@ -63,6 +63,7 @@ Update: Information changes on a regular basis. The client needed the ability to
 Referencing the above, a function call to db.read is passed an argument and the return values are outputted in the images. A variable is declared and initialized with a new document in dictionary format. The search document parameters are saved as a variable. A function call to the update member method returns the number of matching documents. The return value above is 1.
 
 For continuity, another call to db.read was made to verify the recent change. The update is reflected in the image above.
+
 Delete: Sometimes information has to be deleted when it is no longer relevant or needed. The client wanted the program to delete specific documents in the database. The program implements a function that takes a document as an argument and searches for the document. If a document is found, then the method deletes the document and return the number of documents deleted.
 ![image](https://github.com/mwesley8/AnimalShelter_CRUD_Dash_App/assets/105822088/d038c9ab-c794-4e4b-9166-5b13a9646832)
 
