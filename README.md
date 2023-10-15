@@ -3,16 +3,19 @@ About the Project/Project Title
 The advent of cloud computing has enabled businesses to create, store, update, and retrieve information from different geographical locations. Similarly, this program provides the user with functionality to create a document and read single or multiple documents in a distributed web application. 
 
 Motivation
+
 Secure development practices (SecDevOps) seek to reduce the common vulnerabilities and exposures associated with data transfers. While we cannot guarantee a full proof security system, there are many steps we can take to ensure data governance, data integrity, and data privacy.
 
 This program aims to implement a 256 bit secure hash algorithm and authentication to verify the user. User privileges were assigned to regulate access to specific databases. The current program provides functionality for the user to login to the mongo database with their credentials. Afterwards, the user has access to two different functionalities. The user can create a document and/or read multiple documents.
 
 Getting Started
+
 Success when setting up a local environment will depend on where the database is located and your anti-virus. This program was ran using a Jupyter Notebook and Python file. If needed, pip install Pymongo in your Python environment. Create a new folder and copy and paste the program files into the folder. Note the location.
 
 In Jupyter Notebook, click on File-Open File and find the location of the notebook file. Open the file. If the Python file is located in the same working directory, then the import statement should not display an error. Run each cell. If the import and object instantiate cells work, then the program should perform at an acceptable level for the user.
 
 Installation
+
 The tools needed to use the software include a computer with at least 4GB of RAM, common peripherals, supported operating system, and an internet connection. It is recommended to use Jupyter Notebooks for the integrated development environment. Instructions for downloading Jupyter Notebooks can be found here: https://www.partitionwizard.com/partitionmanager/how-to-install-jupyter-notebook.html. The current program was developed and ran in a Windows 64bit environment.
 
 Import pprint only if needed. Mongo Client is a Pymongo built-in class member method used to establish a connection and access a database using the supplied parameters. Similarly, the ObjectId method can be used to find a document using a unique ID. The user will have to edit the Animal Shelter class member variables in the Python file to reflect their individual credentials.
