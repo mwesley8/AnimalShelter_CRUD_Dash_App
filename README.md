@@ -1,5 +1,6 @@
 # AnimalShelter_CRUD_Dash_App
 About the Project/Project Title
+
 The advent of cloud computing has enabled businesses to create, store, update, and retrieve information from different geographical locations. Similarly, this program provides the user with functionality to create a document and read single or multiple documents in a distributed web application. 
 
 Motivation
